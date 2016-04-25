@@ -1,0 +1,6 @@
+<application>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="TURN_REFS_TO_SUPER_PREVIEW_USAGES" value="true" />
+  </component>
+</application>
